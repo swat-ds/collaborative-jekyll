@@ -19,6 +19,41 @@ minima:
 #header_pages:
 # - about.html
 
+prose:
+  rooturl: '_posts'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "Enter your title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "author"
+        field:
+          element: "text"
+          label: 'Author'
+          placeholder: "post author"
+      - name: "image_teaser"
+        field:
+          element: "text"
+          value: "https://media3.giphy.com/media/3og0IFRM2W3Ylg4tIA/giphy.gif"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish?"
+          help: "Check the box when ready to publish"
+          value: false
+      - name: "modified"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+          
 # Build settings
 markdown: kramdown
 theme: minima
