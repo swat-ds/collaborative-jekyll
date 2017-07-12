@@ -8,4 +8,4 @@ author: Roberto Vargas
 googleDoc_id: 1xgOrIaWZYy_B_wpj_alKsMBMqDbPW2iwDjr4jKRHp80
 ---
 
-As you can see above, we can add a editable google doc. 
+As you can see above, we can add google doc. Will make editable during workshop
