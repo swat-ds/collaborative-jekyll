@@ -63,6 +63,18 @@ prose:
           placeholder: "example: 1uGjhA8mK551YwHW1wRF5sh1utOxDV73JfuJbILe2jOI"
           help: "If including a Timeline, enter the string of characters included in your Timelinejs project URL"
           value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "Essay"
+              value: "essay"
+            - name: "Comment"
+              value: "value"
       - name: "modified"
         field:
           element: "hidden"
