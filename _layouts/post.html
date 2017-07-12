@@ -14,12 +14,14 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
-
-  <div class="post-content" itemprop="articleBody">
+  <div class="google">
   
       {% if page.googleDoc_id %}
       {% include page-googleDocs.html %}
       {% endif %}
+  </div>
+  <div class="post-content" itemprop="articleBody">
+  
       {% if page.timeline_id %}
       {% include page-timeline_id.html %}
       {% endif %}

@@ -7,9 +7,5 @@ title: Adding google docs to post
 author: Roberto Vargas
 googleDoc_id: 1xgOrIaWZYy_B_wpj_alKsMBMqDbPW2iwDjr4jKRHp80
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-I am adding a google doc
+As you can see above, we can add a editable google doc. 
