@@ -33,7 +33,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "article"
+          value: "post"
       - name: "author"
         field:
           element: "text"

@@ -16,6 +16,14 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+  
+      {% if page.googleDoc_id %}
+      {% include page-googleDocs.html %}
+      {% endif %}
+      {% if page.timeline_id %}
+      {% include page-timeline_id.html %}
+      {% endif %}
+      <hr/>
     {{ content }}
   </div>
 
