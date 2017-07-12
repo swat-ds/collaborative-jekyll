@@ -6,6 +6,9 @@ published: true
 title: Adding google docs to post
 author: Roberto Vargas
 googleDoc_id: 1xgOrIaWZYy_B_wpj_alKsMBMqDbPW2iwDjr4jKRHp80
+tags:
+  - essay
+  - value
 ---
 
 As you can see above, we can add google doc. Will make editable during workshop
