@@ -1,10 +1,11 @@
 ---
+
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
-author: "Bart Simpson"
-meta: "Springfield"
+
 ---
+
+For more information on using Markdown, checkout this wonderful [cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html) by Rico Sta. Cruz.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
