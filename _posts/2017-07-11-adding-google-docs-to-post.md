@@ -11,4 +11,4 @@ tags:
   - value
 ---
 
-As you can see above, we can add google doc. Will make editable during workshop
+Not only is this handy for the workshop, it demonstrates how flexible custom metadata can be!
