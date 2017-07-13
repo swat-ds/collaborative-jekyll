@@ -1,11 +1,10 @@
 title: Can Static Be Collaborative?
-author: swat-ds
+author: DS@Swat
 email: digitalscholarship@swarthmore.edu
 description: > # this means to ignore newlines until "baseurl:"
   Keystone DH 2017: Collaborative Jekyll Workshop
 
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  swat-ds
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -19,7 +18,7 @@ minima:
 
 prose:
   rooturl: '_posts'
-  media: 'images'
+  media: 'assets/img'
   metadata:
     _posts:
       - name: "title"
