@@ -7,5 +7,5 @@ title: Let's write a post about cats!
 author: Nah
 ---
 ## Librarians are often fond of cats.
-
+![]({{site.baseurl}}/assets/Cat_poster_1.jpg)
 Enter text in [Markdown](![Cats]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/0/0b/Cat_poster_1.jpg)). Use the toolbar above, or click the **?** button for formatting help.
