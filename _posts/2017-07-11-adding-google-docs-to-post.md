@@ -1,11 +1,11 @@
 ---
 modified: '2017-07-11 20:46 -0400'
 layout: post
-image_teaser: '../../collaborative-jekyll/assets/giphy-downsized.gif'
+image_teaser: ../../collaborative-jekyll/assets/giphy-downsized.gif
 published: true
 title: Adding google docs to post
 author: Roberto Vargas
-googleDoc_id: 1xgOrIaWZYy_B_wpj_alKsMBMqDbPW2iwDjr4jKRHp80
+googleDoc_id: 1by5dyukPzZmTJCAsK4o2y8XmgAEta31IDlDCSi4-fYk
 tags:
   - essay
   - value
