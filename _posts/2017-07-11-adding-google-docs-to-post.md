@@ -1,7 +1,7 @@
 ---
 modified: '2017-07-11 20:46 -0400'
 layout: post
-image_teaser: '../../assets/img/giphy-downsized.gif'
+image_teaser: '../../assets/giphy-downsized.gif'
 published: true
 title: Adding google docs to post
 author: Roberto Vargas
