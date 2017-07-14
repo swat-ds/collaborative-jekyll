@@ -6,15 +6,13 @@ published: true
 title: Stewart's Post
 author: Stewart Varner
 ---
-## Stewart's Post
+## Stewart's Pizza Sauce
 
-Digital Humanities is the umbrella term that is often used to describe much of this work.
-It is neither a field, nor a discipline nor a methodology. It is not simply the humanities
-done with computers nor is it simply computer science performed on topics of interest to
-the humanities. Digital humanities is the result of a dynamic dialog between emerging
-technology and humanistic inquiry. For some, it is a scholarly community of practice that
-is engaged in a wide variety of projects but who collectively value experimentation,
-collaboration and making. For others, it is a contentious label that signifies elitism and is
-characterized by a fetishization of technology and a lack of critical reflection. However it
-is defined, digital humanities has had a significant impact on the academic landscape
-for more than a decade.
+1 32-ounce can whole or diced tomatoes
+6 to 8 garlic cloves, roughly chopped
+2 teaspoons balsamic vinegar, plus more to taste
+Salt
+Fresh-cracked pepper
+Olive oil 
+
+Blend, DO NOT COOK before adding to pizza. The sauce will cook in the oven
