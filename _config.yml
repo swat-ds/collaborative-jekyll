@@ -18,7 +18,7 @@ minima:
 
 prose:
   rooturl: '_posts'
-  media: 'assets/img'
+  media: 'assets'
   metadata:
     _posts:
       - name: "title"
